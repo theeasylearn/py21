@@ -1,0 +1,10 @@
+#this is example of how to take input
+name = input("What is your name")
+print("Name " + name)
+age = input("what is your age")
+print("Age " + age)
+weight = input("What is your weight")
+print(f"your weight is {weight}")
+print("weight =" + weight)
+# print("my name is " + name + " and my age is " + age + " and my weight is " + weight)
+print(f"my name is {name} and my age is {age} and my weight is {weight}")
