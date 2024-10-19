@@ -1,0 +1,10 @@
+1) write a program to convert given kilogram into grams and display it. 
+2) write a program to convert given fahrenheit into celsius and display it. 
+3) write a program to calculate tax,final amount on given product's price and quantity and also display it. rate of tax will be 10 percentage. 
+4) write a program to convert given minutes into hours and minutes. 
+    input : 150 minute 
+    output : 2 hours 30 minutes 
+
+    input : 190 minute 
+    output : 3 hours 10 minutes 
+    
