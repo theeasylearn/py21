@@ -8,3 +8,15 @@
     input : 190 minute 
     output : 3 hours 10 minutes 
     
+list
+1) create list of places you have visited so far
+    display whole list 
+    display first place 
+    display last 2 place 
+    display 2nd to 5th place 
+    
+2) create list to store your name, age, weight, gender 
+    print whole list 
+    print your name 
+    print your age and weight 
+    print your gender 
