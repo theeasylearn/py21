@@ -20,3 +20,12 @@ list
     print your name 
     print your age and weight 
     print your gender 
+
+3) create an empty list 
+    add 2 new item at begining of the list 
+    add 2 new item at end of the list 
+    list sorting 
+    count 'watch' item into list
+    display list in reverse order 
+    list copy into another list 
+    make list empty 
