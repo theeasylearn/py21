@@ -11,8 +11,9 @@ print(course)
 #delete key value pair 
 del course['duration']
 
+size = len(course)
 print(course)
-
+print("size of the course = " + str(size))
 #delete dictionary 
 del course 
 

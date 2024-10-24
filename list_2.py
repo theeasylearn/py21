@@ -62,3 +62,5 @@ vegis = ['potato','onion','tomato']
 fruits.extend(vegis)
 print('after merging fruits with vegis')
 print(fruits)
+size = len(fruits)
+print("size of the fruits  " + str(size))
