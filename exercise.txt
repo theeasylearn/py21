@@ -29,3 +29,44 @@ list
     display list in reverse order 
     list copy into another list 
     make list empty 
+
+decision making exercise 
+------------------------------------
+
+1) write a program to find out whether given shape is square or not. accept length and width of the shape as input from user. 
+
+2) write a program to find whether given shape is portrait or landscape. accept length and width of the shape as input from user. 
+
+
+3) write a program to find whether person is adult or not. accept age as input from person. if person is adult display message that you apply for voter id card and driving license other wise display message do not drive vehicle.
+
+4) Write a program to determine if a number is positive, negative   
+   - Accept a number as input from the user.
+   - Display whether it is positive, negative, or zero.
+
+5) Write a program to check if a number is even or odd.  
+   - Accept a number as input from the user.
+   - Display a message indicating if the number is even or odd.
+
+6) Write a program to determine if a person is eligible for a senior citizen discount.  
+   - Accept the person's age as input.
+   - If the age is 60 or above, display a message that the person is eligible; otherwise, display that they are not.
+
+7) Write a program to check if a student passed or failed an exam.  
+   - Accept the student's score as input (out of 100).
+   - Display "Pass" if the score is 40 or above; otherwise, display "Fail."
+
+8) Write a program to find the largest of two numbers.  
+   - Accept two numbers as input.
+   - Display the larger number.
+
+9) Write a program to calculate ticket pricing based on age.  
+   - Accept the person's age as input.
+   - Display the ticket price: 
+     - Free for children under 5
+     - Full price for ages 19 and above
+
+10) Write a program to determine if a given year is a leap year.  
+   - Accept a year as input.
+   - Display whether the year is a leap year or not.
+
