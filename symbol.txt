@@ -1,0 +1,9 @@
+: - colon
+; - semi-colon
+() - paranthisis
+{} - curly bracket
+[] - square bracket
+% - moduls
+* - astric
+! - exclamination
+# - hash
