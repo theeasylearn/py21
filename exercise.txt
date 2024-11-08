@@ -70,3 +70,10 @@ decision making exercise
    - Accept a year as input.
    - Display whether the year is a leap year or not.
 
+11) write a program to check whether candidate can apply for driving license or not using his age. if person age is between 18 and 65 then he should be eligible for driving license otherwise not. 
+
+12) write a program to check whether given shape is square or portrait or landscape using given length and width.
+
+13) write a program to print how many days given month has.  month must be between 1 to 12.
+
+
